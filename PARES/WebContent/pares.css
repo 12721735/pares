@@ -1,0 +1,62 @@
+@charset "UTF-8";
+h1.Steve{
+	box-sizing: content-box;
+	display: block;
+	background-color: orange;
+	color: white;
+	text-align: center;
+}
+.a:link{
+	color: blue;
+}
+.a:visited{
+	color: purple;
+}
+p.enlaces{
+	box-sizing: content-box;
+	display: block;
+	background-color: lightblue;
+}
+.img{
+	float: left;
+}
+p.p{
+	box-sizing: content-box;
+	display: inline-block;
+	border-top: blue 20px solid;
+	border-bottom: blue 20px solid;
+}
+span.p1{
+	color: blue;
+	line-height: 200%;
+}
+
+hr.azul{
+	position: relative;
+	top: 17px;
+	height: 20px;
+	background-color: blue;
+}
+hr.azul2{
+	height: 20px;
+	background-color: blue;
+}
+.img2{
+	width: 250px;
+	heigth: 242px;
+	float: right;
+	
+}
+p.p3{
+	box-sizing: content-box;
+	display: inline-block;
+	background-color: lightblue;
+	
+}
+span.rojo{
+	color: red;
+	box-sizing: content-box;
+	display:block;
+	border-top: red 20px solid;
+	border-bottom: red 20px solid;
+}
